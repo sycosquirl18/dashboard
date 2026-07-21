@@ -1,0 +1,144 @@
+name: Publish dashboard
+
+on:
+  workflow_run:
+    workflows:
+      - Dashboard
+    types:
+      - completed
+
+permissions: {}
+
+concurrency:
+  group: publish-dashboard
+  cancel-in-progress: false
+
+jobs:
+  merge-dashboard:
+    # A failed Dashboard run may have incomplete or unsafe output and must never publish.
+    # Only default-branch runs use the reviewed workflow definition intended for production.
+    # Reject runs from another repository so an untrusted fork cannot feed this write-capable job.
+    if: >-
+      ${{
+        github.event.workflow_run.conclusion == 'success' &&
+        github.event.workflow_run.head_branch == 'main' &&
+        github.event.workflow_run.head_repository.full_name == github.repository
+      }}
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: write
+      pull-requests: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPOSITORY: ${{ github.repository }}
+      RUN_ID: ${{ github.event.workflow_run.id }}
+    steps:
+      - name: Resolve and verify dashboard pull request
+        id: candidate
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          artifact_dir="${RUNNER_TEMP}/dashboard-safe-output"
+          # Resolve metadata only from the triggering run so another run's PR cannot be selected.
+          artifact_ids="$(
+            gh api --paginate \
+              "/repos/${REPOSITORY}/actions/runs/${RUN_ID}/artifacts?per_page=100" \
+              --jq '.artifacts[] | select(.name == "safe-outputs-items" and (.expired | not)) | .id'
+          )"
+
+          # Successful no-change runs legitimately produce no artifact and require no merge.
+          if [[ -z "$artifact_ids" ]]; then
+            echo "No safe-output artifact was produced; there is nothing to publish."
+            exit 0
+          fi
+
+          # More than one artifact with the managed name is ambiguous, so fail closed.
+          if [[ "$(wc -l <<<"$artifact_ids")" -ne 1 ]]; then
+            echo "Expected one safe-output artifact for run ${RUN_ID}." >&2
+            exit 1
+          fi
+
+          gh run download "$RUN_ID" \
+            --repo "$REPOSITORY" \
+            --name safe-outputs-items \
+            --dir "$artifact_dir"
+
+          items_file="$artifact_dir/safe-output-items.jsonl"
+          # The artifact can exist without output items when the dashboard did not change.
+          if [[ ! -s "$items_file" ]]; then
+            echo "The run produced no safe-output items; there is nothing to publish."
+            exit 0
+          fi
+
+          # The workflow contract permits at most one PR; multiple PR results are unsafe to choose between.
+          item="$(
+            jq -sc '
+              [.[] | select(.type == "create_pull_request")]
+              | if length == 0 then empty
+                elif length == 1 then .[0]
+                else error("multiple create_pull_request results")
+                end
+            ' "$items_file"
+          )"
+
+          # Other safe-output types may exist without a PR, which is a valid no-op for this publisher.
+          if [[ -z "$item" ]]; then
+            echo "The run created no pull request; there is nothing to publish."
+            exit 0
+          fi
+
+          # PR numbers are repository-local; reject an artifact that points at another repository.
+          if [[ "$(jq -er '.repo' <<<"$item")" != "$REPOSITORY" ]]; then
+            echo "The safe-output pull request belongs to another repository." >&2
+            exit 1
+          fi
+
+          # Require a positive numeric PR number before placing it into a GitHub API path.
+          number="$(jq -er '.number | select(type == "number" and . > 0)' <<<"$item")"
+          pull_request="$(gh api "/repos/${REPOSITORY}/pulls/${number}")"
+
+          # A PR base can change after creation; never merge the dashboard anywhere except main.
+          if [[ "$(jq -r '.base.ref' <<<"$pull_request")" != "main" ]]; then
+            echo "Dashboard PR #${number} no longer targets main." >&2
+            exit 1
+          fi
+
+          # Capture the exact head being inspected so the later merge can reject intervening pushes.
+          head_sha="$(jq -er '.head.sha | select(type == "string" and length > 0)' <<<"$pull_request")"
+          files="$(
+            gh api --paginate \
+              -H "Accept: application/vnd.github+json" \
+              "/repos/${REPOSITORY}/pulls/${number}/files?per_page=100" \
+              | jq -s 'add | map(.filename)'
+          )"
+
+          # Reapply max-patch-files at merge time in case commits were added after PR creation.
+          if [[ "$(jq 'length' <<<"$files")" -ne 1 ]]; then
+            echo "Dashboard PR must change exactly one file." >&2
+            exit 1
+          fi
+
+          # Reapply allowed-files at merge time so only the dashboard README can reach main.
+          if [[ "$(jq -r '.[0]' <<<"$files")" != "README.md" ]]; then
+            echo "Dashboard PR changed a file other than README.md." >&2
+            exit 1
+          fi
+
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+          echo "head_sha=$head_sha" >> "$GITHUB_OUTPUT"
+
+      - name: Merge verified dashboard pull request
+        # No PR output means the resolver intentionally completed as a no-op.
+        if: steps.candidate.outputs.number != ''
+        env:
+          HEAD_SHA: ${{ steps.candidate.outputs.head_sha }}
+          PR_NUMBER: ${{ steps.candidate.outputs.number }}
+        # Refuse the merge if the PR head changed after its file list was verified.
+        run: >-
+          gh pr merge "$PR_NUMBER"
+          --repo "$REPOSITORY"
+          --squash
+          --delete-branch
+          --match-head-commit "$HEAD_SHA"

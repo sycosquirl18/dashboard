@@ -22,7 +22,7 @@ safe-outputs:
     title-prefix: "[dashboard] "
     branch-prefix: "dashboard/"
     draft: false
-    auto-merge: true
+    auto-merge: false
     base-branch: main
     close-older-pull-requests: true
     close-older-key: dashboard
