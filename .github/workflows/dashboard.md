@@ -2,6 +2,8 @@
 name: Dashboard
 on:
   schedule:
+    - cron: "17 4 * * *"
+      timezone: "America/Los_Angeles"
     - cron: "17 6 * * *"
       timezone: "America/Los_Angeles"
   workflow_dispatch:
@@ -51,6 +53,10 @@ If either coordinate is missing, stop with a clear error that names the missing 
 
 Determine one dashboard date with `TZ="$DASHBOARD_TIMEZONE" date +%F`, store the result as `DASHBOARD_DATE`, and use that variable consistently for API queries and display.
 
+For scheduled runs only (`GITHUB_EVENT_NAME=schedule`), compute the required `# <DD MMM YYYY>` heading from `DASHBOARD_DATE` before fetching either API.
+
+If the first line of the root `README.md` already equals that heading, stop without editing any file or requesting a pull request; do not apply this same-day check to manual runs.
+
 Fetch National Weather Service data as follows:
 
 1. Request `https://api.weather.gov/points/${DASHBOARD_LATITUDE},${DASHBOARD_LONGITUDE}` with `curl --fail --silent --show-error --retry 3`.
@@ -67,6 +73,8 @@ Fetch the Seattle Mariners schedule from `https://statsapi.mlb.com/api/v1/schedu
 Parse the MLB response with `jq`.
 
 For every returned game, report the opponent, whether Seattle is home or away, the venue, the game status, and first-pitch time converted to `DASHBOARD_TIMEZONE`.
+
+When `seriesGameNumber` and `gamesInSeries` are both positive integers, briefly report the series position with the correct ordinal, such as `3rd game of a 3-game series`; omit it when either field is unavailable or invalid.
 
 Include probable pitchers only when the response provides them.
 
