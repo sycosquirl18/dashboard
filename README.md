@@ -1,22 +1,28 @@
-# 21 Jul 2026
+# 22 Jul 2026
 
-Hot summer afternoon in Bothell — sunny and scorching at 92°F, and the Mariners host the Reds tonight!
+🌞 Scorching hot day in Bothell, WA — and the Mariners are closing out a series at home!
 
 ## Weather
 
-📍 **Bothell, WA**
+**Daytime — Sunny**
+- 🌡️ High: **94°F** | Precip chance: 5%
+- 💨 Wind: 1–6 mph NNW
+- Detailed: Sunny, high near 94°F
 
-- **This Afternoon:** Sunny, high near **92°F** — 0% chance of rain, NNW wind ~6 mph
-- **Tonight:** Mostly clear, low around **63°F** — wind calm 1–5 mph
-- 🧢 **Apparel tip:** It's a scorcher — wear shorts, sunscreen, and bring plenty of water. No rain gear needed.
+**Tonight — Partly Cloudy then Chance Light Rain**
+- 🌡️ Low: **64°F** | Precip chance: 30%
+- 💨 Wind: 1–9 mph N
+- Chance of rain after 3 AM
+
+👕 **Apparel:** Shorts and a t-shirt for sure — it's blazing out there! Toss a light jacket in the bag for tonight just in case of late showers.
 
 ## Seattle Mariners
 
-- 🏟️ **vs. Cincinnati Reds** — Home at **T-Mobile Park**
-- ⏰ **First pitch:** 6:40 PM PDT
-- 📋 **Status:** Pre-Game
-- ⚾ **Probable pitchers:** Luis Castillo (SEA) vs. Chase Burns (CIN)
+- 🏟️ **vs. Cincinnati Reds** — Home at T-Mobile Park
+- ⚾ First pitch: **12:40 PM PDT**
+- 📊 Status: Scheduled | 3rd game of a 3-game series
+- 🤾 Probable pitchers: Emerson Hancock (SEA) vs. Brady Singer (CIN)
 
 ---
 
-*Data from the [National Weather Service](https://www.weather.gov/) and [MLB Stats API](https://statsapi.mlb.com/) for 2026-07-21.*
+*Data sourced from the [National Weather Service](https://www.weather.gov/) and [MLB Stats API](https://statsapi.mlb.com/) for 2026-07-22.*
