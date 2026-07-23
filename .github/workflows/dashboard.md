@@ -70,11 +70,28 @@ Fetch National Weather Service data as follows:
 
 Fetch the Seattle Mariners schedule from `https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=136&date=${DASHBOARD_DATE}&hydrate=team,probablePitcher` with the same fail, silence, error, and retry behavior.
 
-Parse the MLB response with `jq`.
+Parse every MLB response with `jq`.
 
 For every returned game, report the opponent, whether Seattle is home or away, the venue, the game status, and first-pitch time converted to `DASHBOARD_TIMEZONE`.
 
 When `seriesGameNumber` and `gamesInSeries` are both positive integers, briefly report the series position with the correct ordinal, such as `3rd game of a 3-game series`; omit it when either field is unavailable or invalid.
+
+When a game has a valid series position, derive `HISTORY_START_DATE` as 21 days before `DASHBOARD_DATE` and fetch recent results from `https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=136&startDate=${HISTORY_START_DATE}&endDate=${DASHBOARD_DATE}&hydrate=team` with the same fail, silence, error, and retry behavior.
+
+Order the returned games chronologically by `gameDate`, exclude the current game by `gamePk`, and consider only earlier games whose `status.abstractGameState` is `Final` and whose Seattle and opponent scores are numeric.
+
+Partition the eligible games into chronological series at each `seriesGameNumber` of 1.
+
+Require every game in a series to have the same opponent team ID and `gamesInSeries` value, with unique consecutive positions from 1 through `gamesInSeries`; do not infer a result when these fields are missing or inconsistent.
+
+Report recent series history as follows:
+
+1. For the first game, say it is the first game, identify the immediately preceding series, and classify it only when that series is complete.
+2. Use `swept` when Seattle won every game, `were swept` when Seattle lost every game, `won` or `lost` for the other unequal records, and `tied` when the wins and losses are equal.
+3. For the second game, say it is the second game and whether Seattle won or lost the first game.
+4. For the third or fourth game, give Seattle's record so far and list the earlier results in order, such as `2-0; won the first two` or `1-1; lost the first and won the second`.
+
+If the history request fails, its JSON is invalid, or the required completed games cannot be identified confidently, keep the current-game details and say only that recent series history is unavailable.
 
 Include probable pitchers only when the response provides them.
 
@@ -94,9 +111,8 @@ Replace only the root `README.md` with this structure:
 - A brief summary, e.g. "Hot today and the Mariners are playing!"
 - `## Weather` with compact bullets.
 - `## Seattle Mariners` with compact bullets or the exact off-day sentence.
-- A short source note naming the National Weather Service and MLB Stats API.
 
-Use the dashboard date in the source note instead of a volatile current timestamp.
+Do not add source citations, source links, footnotes, or a source section to the report.
 
 Keep the file easy to scan on a phone and do not add tutorial text, raw JSON, command output, or implementation details.
 
