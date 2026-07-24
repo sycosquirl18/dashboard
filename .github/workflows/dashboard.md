@@ -53,7 +53,7 @@ If either coordinate is missing, stop with a clear error that names the missing 
 
 Determine one dashboard date with `TZ="$DASHBOARD_TIMEZONE" date +%F`, store the result as `DASHBOARD_DATE`, and use that variable consistently for API queries and display.
 
-For scheduled runs only (`GITHUB_EVENT_NAME=schedule`), compute the required `# <DD MMM YYYY>` heading from `DASHBOARD_DATE` before fetching either API.
+For scheduled runs only (`GITHUB_EVENT_NAME=schedule`), compute the required `# <Weekday, DD MMM YYYY>` heading from `DASHBOARD_DATE` before fetching either API, such as `# Friday, 24 Jul 2026`.
 
 If the first line of the root `README.md` already equals that heading, stop without editing any file or requesting a pull request; do not apply this same-day check to manual runs.
 
@@ -107,7 +107,7 @@ Never fabricate a forecast, schedule, status, venue, time, or probable pitcher.
 
 Replace only the root `README.md` with this structure:
 
-- `# <DD MMM YYYY>`
+- `# <Weekday, DD MMM YYYY>`, such as `# Friday, 24 Jul 2026`
 - A brief summary, e.g. "Hot today and the Mariners are playing!"
 - `## Weather` with compact bullets.
 - `## Seattle Mariners` with compact bullets or the exact off-day sentence.
