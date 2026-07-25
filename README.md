@@ -1,20 +1,21 @@
-# 24 Jul 2026
+# Saturday, 25 Jul 2026
 
-Hot and sunny in Bothell — perfect weather for a game day as the Mariners open a 4-game road series in Texas!
+Partly sunny and mild in Bothell — a nice summer day as the Mariners play game 2 of their road series in Texas.
 
 ## Weather
 
 **Bothell, WA**
 
-- **Daytime:** Mostly Sunny, high near 85°F — SW wind 0–5 mph, 0% chance of rain
-- **Overnight:** Partly Cloudy, low around 59°F — NE wind 1–8 mph
-- **Apparel:** Shorts and sunscreen today for sure — it's a warm one!
+- **Daytime:** Partly Sunny, high near 74°F — S wind 10 mph, 4% chance of rain
+- **Tonight:** Partly Cloudy, low around 59°F — SSW wind 8 mph
+- **Apparel:** Light layers are fine — comfortable temps with no rain expected.
 
 ## Seattle Mariners
 
 - **Opponent:** Texas Rangers (Seattle away)
 - **Venue:** Globe Life Field
-- **First Pitch:** 5:05 PM PDT
-- **Status:** Scheduled — 1st game of a 4-game series
-- **Probable Pitchers:** Bryce Miller (SEA) vs. MacKenzie Gore (TEX)
+- **First Pitch:** 4:15 PM PDT
+- **Status:** Preview — 2nd game of a 4-game series
+- **Probable Pitchers:** Bryan Woo (SEA) vs. Nathan Eovaldi (TEX)
+- **Series so far:** Seattle lost the first game (4–5)
 - **Last series:** vs. Cincinnati Reds — Seattle lost (1–2)
