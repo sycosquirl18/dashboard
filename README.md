@@ -1,20 +1,21 @@
-# Tuesday, 28 Jul 2026
+# Wednesday, 29 Jul 2026
 
-Mostly sunny and pleasant in Bothell — the Mariners head to LA to open a series against the Dodgers tonight!
+Sunny and warm in Bothell — the Mariners are in LA for game 2 against the Dodgers tonight!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Daytime:** Mostly sunny, high 76°F — SSW wind 6–13 mph (gusts to 21 mph), 3% chance of rain
-- **Tonight:** Mostly cloudy, low 55°F — NNW wind 2–6 mph, 1% chance of rain
-- **Apparel:** Light layers for the evening chill, but shorts are totally fine during the day.
+- **Daytime:** Mostly sunny, high 75°F — N wind 2–6 mph, 0% chance of rain
+- **Tonight:** Mostly clear, low 52°F — NE wind 1–6 mph, 0% chance of rain
+- **Apparel:** Shorts weather for sure — cool down later in the evening.
 
 ## Seattle Mariners
 
 - **Opponent:** Los Angeles Dodgers (Seattle away)
 - **Venue:** UNIQLO Field at Dodger Stadium
 - **First Pitch:** 7:10 PM PDT
-- **Status:** Scheduled — 1st game of a 3-game series
-- **Probable Pitcher:** Luis Castillo (SEA)
-- **Last series:** Were swept by Texas Rangers (lost all 4 games)
+- **Series:** 2nd game of a 3-game series
+- **Probable Pitchers:** Emerson Hancock (SEA) vs Eric Lauer (LAD)
+- **Series so far:** Seattle won game 1 (7–6)
+- **Last completed series:** Texas Rangers — Seattle went 1–3 (lost the series)
