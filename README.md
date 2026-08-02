@@ -1,20 +1,21 @@
-# Saturday, 01 Aug 2026
+# Sunday, 02 Aug 2026
 
-Cloudy with a chance of afternoon showers in Bothell — and the Mariners host the Twins in game 2 of a 3-game series this afternoon!
+Nice day ahead in Bothell with a slim rain chance in the morning — and the Mariners close out the series against the Twins at 1:10 PM!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Daytime:** Partly sunny with a chance of light rain after 10am, high 72°F — SSW wind 7–13 mph, 50% chance of rain
-- **Tonight:** Mostly cloudy with a chance of light rain, low 55°F — ESE wind 2–8 mph, 30% chance of rain
-- **Apparel:** Bring a raincoat or umbrella — there's a coin-flip chance of rain most of the day.
+- **Daytime:** Slight chance of rain before 11am, then partly sunny, high 70°F — NNE wind 1–7 mph, 19% chance of rain
+- **Tonight:** Mostly clear, low 51°F — NNE wind 2–7 mph
+- **Apparel:** No umbrella needed — the rain chance is slim and it should clear up nicely by midday.
 
 ## Seattle Mariners
 
 - **Opponent:** Minnesota Twins (Seattle home)
 - **Venue:** T-Mobile Park
 - **First Pitch:** 1:10 PM PDT
-- **Series:** 2nd game of a 3-game series — Seattle lost the first game 3–5
-- **Probable Pitchers:** Logan Gilbert (SEA) vs Connor Prielipp (MIN)
+- **Status:** Scheduled
+- **Series:** 3rd game of a 3-game series — 1-1 so far; lost the first (3–5) and won the second (4–3)
+- **Probable Pitchers:** George Kirby (SEA) vs Taj Bradley (MIN)
 - **Last series:** vs Los Angeles Dodgers (away) — lost 1–2; won the first (7–6), lost the second (2–4) and third (2–6)
