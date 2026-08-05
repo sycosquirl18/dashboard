@@ -1,20 +1,20 @@
-# Tuesday, 04 Aug 2026
+# Wednesday, 05 Aug 2026
 
-Sunny and hot in Bothell — light smoke expected this afternoon. The Mariners open a 3-game home series against the Tigers tonight!
+Hot and hazy in Bothell with patchy smoke rolling in — the Mariners host the Tigers tonight for game 2 of a 3-game series!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Day:** Sunny then areas of smoke after 1 PM — high 85°F, NNE wind 3–8 mph, 0% chance of rain
-- **Night:** Patchy smoke before 11 PM then clear — low 57°F, NNE wind 2–6 mph
-- **Apparel:** Shorts and sunglasses today — but consider a light layer for evening if smoke bothers you.
+- **Day:** Patchy smoke after 10 AM, sunny — high 87°F, N wind 1–6 mph, 0% chance of rain
+- **Night:** Patchy smoke before midnight then clear — low 59°F, NNE wind 1–5 mph
+- **Apparel:** Shorts are a must today — if smoke bothers you, consider a mask or stay indoors during peak afternoon hours.
 
 ## Seattle Mariners
 
 - **Opponent:** Detroit Tigers (home at T-Mobile Park)
 - **First pitch:** 6:40 PM PDT
 - **Status:** Scheduled
-- **Series:** 1st game of a 3-game series
-- **Probable pitchers:** Emerson Hancock (SEA) vs. TBD (DET)
-- **Last series:** Seattle won the Minnesota Twins series 2-1 — lost game 1, won games 2 and 3.
+- **Series:** 2nd game of a 3-game series
+- **Probable pitchers:** Bryan Woo (SEA) vs. Drew Anderson (DET)
+- **Series so far:** Seattle lost the first game (Detroit 8, Seattle 0).
