@@ -1,20 +1,20 @@
-# Saturday, 08 Aug 2026
+# Sunday, 09 Aug 2026
 
-Warm and mostly sunny in Bothell today — great weather for a BBQ while the Mariners try to even the series against Tampa Bay tonight!
+Sunny and pleasant in Bothell — a beautiful day for baseball as the Mariners look to avoid the sweep against Tampa Bay!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Day:** Partly sunny — high 83°F, WSW wind 1–5 mph, 0% chance of rain
-- **Night:** Mostly clear — low 55°F, NNE wind 1–7 mph
-- **Apparel:** Light and breezy — shorts and a T-shirt will do. No rain gear needed!
+- **Day:** Sunny — high 79°F, NNW wind 1–6 mph, 1% chance of rain
+- **Night:** Partly cloudy — low 54°F, NNE wind 1–6 mph
+- **Apparel:** Gorgeous summer day — shorts and a T-shirt are perfect. No jacket needed!
 
 ## Seattle Mariners
 
 - **Opponent:** Tampa Bay Rays (home at T-Mobile Park)
-- **First pitch:** 6:50 PM PDT
+- **First pitch:** 1:10 PM PDT
 - **Status:** Scheduled
-- **Series:** 2nd game of a 3-game series
-- **Probable pitchers:** George Kirby (SEA) vs. Griffin Jax (TB)
-- **Series history:** This is the second game of the series. Tampa Bay won the first game 2–1. The previous series vs. Detroit (3 games): Seattle went 1–2, losing the 1st and 3rd, winning the 2nd.
+- **Series:** 3rd game of a 3-game series
+- **Probable pitchers:** Emerson Hancock (SEA) vs. TBD (TB)
+- **Series history:** This is the third game of the series. Seattle is 0–2 so far — lost the first game 1–2 and lost the second game 2–3. The previous series vs. Detroit (3 games): Seattle went 1–2, losing the 1st and 3rd, winning the 2nd.
