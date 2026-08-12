@@ -1,14 +1,14 @@
-# Tuesday, 11 Aug 2026
+# Wednesday, 12 Aug 2026
 
-Sunny and warm in Bothell today — great weather to watch the Mariners open a series in New York!
+Mostly sunny and pleasant in Bothell — Mariners head to Yankee Stadium for game 2 against New York!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Day:** Sunny — high 77°F, N wind 1–5 mph, 3% chance of rain
-- **Night:** Mostly clear — low 56°F, N wind 1–6 mph, 3% chance of rain
-- **Apparel:** Gorgeous late-summer day — shorts and a t-shirt are all you need.
+- **Day:** Mostly sunny — high 77°F, NW wind ~3 mph, 4% chance of rain
+- **Night:** Mostly clear — low 57°F, N wind 0–3 mph, 5% chance of rain
+- **Apparel:** Beautiful late-summer day — shorts and a light tee are all you need.
 
 ## Seattle Mariners
 
@@ -16,6 +16,6 @@ Sunny and warm in Bothell today — great weather to watch the Mariners open a s
 - **Venue:** Yankee Stadium
 - **First pitch:** 4:05 PM PDT
 - **Status:** Scheduled
-- **Series:** 1st game of a 3-game series
-- **Probable pitchers:** Bryan Woo (SEA) vs. Ryan Weathers (NYY)
-- **Recent history:** This is the first game of the series. The previous series was vs. the Tampa Bay Rays — Seattle were swept (lost all 3 games: lost 1–2, lost 2–3, lost 1–4).
+- **Series:** 2nd game of a 3-game series
+- **Probable pitchers:** Bryce Miller (SEA) vs. Will Warren (NYY)
+- **Recent history:** This is the second game of the series. Seattle lost the first game (1–4).
