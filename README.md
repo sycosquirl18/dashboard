@@ -1,21 +1,21 @@
-# Thursday, 13 Aug 2026
+# Friday, 14 Aug 2026
 
-Sunny and warm in Bothell — the Mariners wrap up their series in New York, down 0-2.
+It's a warm, sunny Friday in Bothell — a great evening for baseball as the Mariners head to Houston!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Day:** Sunny — high 82°F, W wind ~3 mph, 1% chance of rain
-- **Night:** Mostly clear — low 59°F, NNE wind 0–3 mph, 6% chance of rain
-- **Apparel:** Beautiful summer day — shorts and a t-shirt will do perfectly.
+- **Day:** Mostly sunny — high 84°F, SSW wind ~3 mph, 1% chance of rain
+- **Night:** Partly cloudy — low 58°F, NNE wind 0–5 mph, 3% chance of rain
+- **Apparel:** Classic summer day — shorts and a t-shirt are all you need.
 
 ## Seattle Mariners
 
-- **Away:** Seattle Mariners @ New York Yankees
-- **Venue:** Yankee Stadium
-- **First pitch:** 10:35 AM PDT
+- **Away:** Seattle Mariners @ Houston Astros
+- **Venue:** Daikin Park
+- **First pitch:** 5:10 PM PDT
 - **Status:** Scheduled
-- **Series:** 3rd game of a 3-game series
-- **Probable pitchers:** Logan Gilbert (SEA) vs. Max Fried (NYY)
-- **Recent history:** This is the third game of the series. Seattle is 0-2 so far; lost the first (1–4) and lost the second (5–10).
+- **Series:** 1st game of a 3-game series
+- **Probable pitchers:** George Kirby (SEA) vs. Peter Lambert (HOU)
+- **Recent history:** This is the first game of the series. The immediately preceding series was vs. the New York Yankees — Seattle lost (1-2).
