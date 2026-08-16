@@ -1,21 +1,17 @@
-# Saturday, 15 Aug 2026
+# Sunday, 16 Aug 2026
 
-Warm and mostly cloudy in Bothell — a comfortable afternoon for baseball as the Mariners play game 2 in Houston!
+Mostly cloudy and mild in Bothell — the Mariners wrap up their series in Houston this afternoon!
 
 ## Weather
 
-**Bothell, WA**
-
-- **Day:** Mostly cloudy — high 81°F, SSW wind ~3 mph, 4% chance of rain
-- **Night:** Mostly cloudy — low 58°F, N wind 0–5 mph, 4% chance of rain
-- **Apparel:** Light layers are fine — no rain expected, but a light jacket for the evening wouldn't hurt.
+- **Daytime:** Mostly Cloudy, high near **78°F** · wind 0–3 mph NNE · precip chance 2%
+- **Overnight:** Mostly Cloudy, low around **57°F** · wind 1–5 mph N · precip chance 0%
+- 👕 Light layers are fine — cool in the morning, comfortable afternoon. No rain expected.
 
 ## Seattle Mariners
 
-- **Away:** Seattle Mariners @ Houston Astros
-- **Venue:** Daikin Park
-- **First pitch:** 4:10 PM PDT
-- **Status:** Scheduled
-- **Series:** 2nd game of a 3-game series
-- **Probable pitchers:** Emerson Hancock (SEA) vs. Hayden Wesneski (HOU)
-- **Recent history:** This is the second game of the series. Seattle lost the first game (7–10).
+- **@ Houston Astros** — Daikin Park
+- ⚾ First pitch: **4:20 PM PDT**
+- 📋 Status: Scheduled · 3rd game of a 3-game series
+- 🗂️ Series so far: 1–1 · lost the first, won the second
+- 🤾 Probable pitchers: Bryan Woo (SEA) vs. Hunter Brown (HOU)
