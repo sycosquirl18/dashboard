@@ -1,18 +1,22 @@
-# Wednesday, 19 Aug 2026
+# Thursday, 20 Aug 2026
 
-Beautiful summer day in Bothell — and the Mariners are back at it in Milwaukee after a rough game 1!
+Beautiful sunny day in Bothell and the Mariners wrap up their Milwaukee series on the road tonight!
 
 ## Weather
 
-- **Overnight (early):** Mostly Cloudy · Low ~58°F · Wind S 2 mph · Negligible rain (2%)
-- **Wednesday:** Mostly Sunny · High near **80°F** · Wind WSW 3 mph · Negligible rain (2%)
-- **Wednesday Night:** Partly Cloudy · Low ~57°F · Wind N 0–3 mph · Near-zero rain (1%)
-- 👕 Gorgeous day — shorts and a t-shirt, no umbrella needed.
+**Location:** Bothell, WA
+
+- ☀️ **Daytime:** Sunny, high near 82°F — no rain (0% chance)
+- 🌙 **Tonight:** Mostly clear, low around 58°F
+- 💨 **Wind:** Light, 0–5 mph NNW
+- 👕 **Apparel:** T-shirt weather — leave the umbrella at home!
 
 ## Seattle Mariners
 
-- **Mariners @ Brewers** — Away · American Family Field, Milwaukee
-- **First pitch:** 4:40 PM PDT · Status: Scheduled
-- **2nd game of a 3-game series**
-- **Probable pitchers:** Logan Gilbert (SEA) vs. Dustin May (MIL)
-- **Series history:** This is the second game — Seattle lost the first game 0–22
+- 🏟️ **Game 3 of 3** vs Milwaukee Brewers (away)
+- 📍 American Family Field, Milwaukee
+- ⚾ **First pitch:** 11:10 AM PDT
+- 📋 **Status:** Scheduled
+- 🧢 **Probable pitchers:** George Kirby (SEA) vs Robert Gasser (MIL)
+- 📊 **Series so far (1-1):** Lost the first (0–22) and won the second (7–5)
+- 📅 **Last series vs Houston Astros:** Seattle won (2-1)
