@@ -1,22 +1,21 @@
-# Thursday, 20 Aug 2026
+# Friday, 21 Aug 2026
 
-Beautiful sunny day in Bothell and the Mariners wrap up their Milwaukee series on the road tonight!
+Warm and partly sunny in Bothell, and the Mariners open a home series against the Cubs tonight!
 
 ## Weather
 
 **Location:** Bothell, WA
 
-- ☀️ **Daytime:** Sunny, high near 82°F — no rain (0% chance)
-- 🌙 **Tonight:** Mostly clear, low around 58°F
-- 💨 **Wind:** Light, 0–5 mph NNW
-- 👕 **Apparel:** T-shirt weather — leave the umbrella at home!
+- ⛅ **Daytime:** Partly sunny, high near 83°F — virtually no rain (3% chance)
+- 🌙 **Tonight:** Mostly cloudy, low around 60°F — slight chance of rain after 4 AM (26%)
+- 💨 **Wind:** Light, 0–3 mph NNW
+- 👕 **Apparel:** Shorts and a t-shirt for the day; bring a light jacket for the evening game!
 
 ## Seattle Mariners
 
-- 🏟️ **Game 3 of 3** vs Milwaukee Brewers (away)
-- 📍 American Family Field, Milwaukee
-- ⚾ **First pitch:** 11:10 AM PDT
+- 🏟️ **1st game of a 3-game series** vs Chicago Cubs (home)
+- 📍 T-Mobile Park, Seattle
+- ⚾ **First pitch:** 7:10 PM PDT
 - 📋 **Status:** Scheduled
-- 🧢 **Probable pitchers:** George Kirby (SEA) vs Robert Gasser (MIL)
-- 📊 **Series so far (1-1):** Lost the first (0–22) and won the second (7–5)
-- 📅 **Last series vs Houston Astros:** Seattle won (2-1)
+- 🧢 **Probable pitchers:** Emerson Hancock (SEA) vs Matthew Boyd (CHC)
+- 📅 **Last series vs Milwaukee Brewers:** Seattle lost (1-2)
