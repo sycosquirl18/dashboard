@@ -1,21 +1,22 @@
-# Friday, 21 Aug 2026
+# Saturday, 22 Aug 2026
 
-Warm and partly sunny in Bothell, and the Mariners open a home series against the Cubs tonight!
+Partly rainy morning but warming up — and the Mariners are home for game 2!
 
 ## Weather
 
-**Location:** Bothell, WA
+**Bothell, WA**
 
-- ⛅ **Daytime:** Partly sunny, high near 83°F — virtually no rain (3% chance)
-- 🌙 **Tonight:** Mostly cloudy, low around 60°F — slight chance of rain after 4 AM (26%)
-- 💨 **Wind:** Light, 0–3 mph NNW
-- 👕 **Apparel:** Shorts and a t-shirt for the day; bring a light jacket for the evening game!
+- **Day:** Chance of light rain before 2 PM, then partly sunny · High 77 °F · Wind SSW 6 mph · Rain chance 40%
+- **Night:** Mostly cloudy · Low 58 °F · Wind SW 3 mph · Rain chance 9%
+
+🌂 Bring a light jacket and a compact umbrella — showers possible this morning, but clearing up in the afternoon.
 
 ## Seattle Mariners
 
-- 🏟️ **1st game of a 3-game series** vs Chicago Cubs (home)
-- 📍 T-Mobile Park, Seattle
-- ⚾ **First pitch:** 7:10 PM PDT
-- 📋 **Status:** Scheduled
-- 🧢 **Probable pitchers:** Emerson Hancock (SEA) vs Matthew Boyd (CHC)
-- 📅 **Last series vs Milwaukee Brewers:** Seattle lost (1-2)
+- **Opponent:** Chicago Cubs (away)
+- **Home/Away:** Mariners at home — T-Mobile Park
+- **First Pitch:** 4:15 PM PDT
+- **Series:** 2nd game of a 3-game series
+- **Series history:** Seattle won the first game (6–5)
+- **Probable Pitchers:** Kade Anderson (SEA) vs. David Peterson (CHC)
+- **Status:** Scheduled
