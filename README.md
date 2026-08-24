@@ -1,22 +1,22 @@
-# Sunday, 23 Aug 2026
+# Monday, 24 Aug 2026
 
-Comfortable late-summer Sunday — and the Mariners close out the Cubs series at home!
+Sunny and warm in Bothell — perfect weather to kick off a new series as the Mariners host the Phillies tonight!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Day:** Partly sunny · High 76 °F · Wind SSE 1–5 mph · Rain chance 11%
-- **Night:** Mostly clear · Low 55 °F · Wind N 6 mph · Rain chance 3%
+- **Day:** Sunny · High 78 °F · Wind N 3–9 mph · Rain chance 0%
+- **Night:** Mostly clear · Low 56 °F · Wind N 0–7 mph · Rain chance 1%
 
-☀️ Great day for a ball game — light layers in the morning, shorts-worthy by afternoon.
+☀️ Beautiful summer day — shorts and a t-shirt all the way. No jacket needed.
 
 ## Seattle Mariners
 
-- **Opponent:** Chicago Cubs (away)
-- **Home/Away:** Mariners at home — T-Mobile Park
-- **First Pitch:** 1:10 PM PDT
-- **Series:** 3rd game of a 3-game series
-- **Series history:** 2–0 so far; won the first game (6–5) and won the second game (5–4). Coming into this series Seattle lost the previous series vs. Milwaukee (1–2).
-- **Probable Pitchers:** Bryce Miller (SEA) vs. Shota Imanaga (CHC)
+- **Opponent:** Philadelphia Phillies (away)
+- **Venue:** T-Mobile Park (home)
+- **First Pitch:** 6:40 PM PDT
 - **Status:** Scheduled
+- **Series:** 1st game of a 3-game series
+- **Series history:** First game of the series. The previous series was vs. Chicago Cubs — Seattle lost (1–2; won the first two but lost the third 2–19).
+- **Probable Pitchers:** Logan Gilbert (SEA) vs. Zack Wheeler (PHI)
