@@ -1,22 +1,16 @@
-# Wednesday, 26 Aug 2026
+# Thursday, 27 Aug 2026
 
-Beautiful sunny day in Bothell and the Mariners go for the sweep against the Phillies this afternoon!
+Mostly sunny afternoon in Bothell with comfortable temperatures — and the Mariners have a rest day.
 
 ## Weather
 
 **Bothell, WA**
 
-- **Day:** Mostly sunny · High 80 °F · Wind S 3 mph · Rain chance 1%
-- **Night:** Partly cloudy · Low 57 °F · Wind SSW 1–6 mph · Rain chance 1%
+- **Afternoon:** Mostly sunny · High 73 °F · Wind SW 10 mph (gusts to 21 mph) · Rain chance 4%
+- **Tonight:** Mostly cloudy · Low 57 °F · Wind S 1–7 mph · Rain chance 9%
 
-☀️ Shorts and a t-shirt weather — no jacket needed today!
+🩳 Light layers are fine — enjoy the sunshine, but a light jacket may be handy tonight.
 
 ## Seattle Mariners
 
-- **Opponent:** Philadelphia Phillies (home)
-- **Venue:** T-Mobile Park
-- **First Pitch:** 1:10 PM PDT
-- **Status:** Scheduled
-- **Series:** 3rd game of a 3-game series
-- **Series history:** Third game. Seattle leads 2–0; won the first two (9–2 and 4–1).
-- **Probable Pitchers:** Bryan Woo (SEA) vs. Jesús Luzardo (PHI)
+No Mariners game today.
