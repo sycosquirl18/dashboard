@@ -1,16 +1,20 @@
-# Thursday, 27 Aug 2026
+# Friday, 28 Aug 2026
 
-Mostly sunny afternoon in Bothell with comfortable temperatures — and the Mariners have a rest day.
+Sunny afternoon in Bothell but rain moves in tonight — and the Mariners kick off a series in Toronto!
 
 ## Weather
 
 **Bothell, WA**
 
-- **Afternoon:** Mostly sunny · High 73 °F · Wind SW 10 mph (gusts to 21 mph) · Rain chance 4%
-- **Tonight:** Mostly cloudy · Low 57 °F · Wind S 1–7 mph · Rain chance 9%
+- **This Afternoon:** Mostly sunny · High 72 °F · Wind NW 2 mph · Rain chance 2%
+- **Tonight:** Rain · Low 54 °F · Wind NNE 1–6 mph · Rain chance 86%
 
-🩳 Light layers are fine — enjoy the sunshine, but a light jacket may be handy tonight.
+☀️ Enjoy the dry afternoon — grab a raincoat or umbrella for tonight.
 
 ## Seattle Mariners
 
-No Mariners game today.
+- **Seattle Mariners @ Toronto Blue Jays** — Rogers Centre
+- **First pitch:** 4:15 PM PDT · Status: Pre-Game
+- **Series:** 1st game of a 3-game series
+- **Probable pitchers:** Emerson Hancock (SEA) vs. Dylan Cease (TOR)
+- **Last series:** Won the Philadelphia Phillies series (2–1)
