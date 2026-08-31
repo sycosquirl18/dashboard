@@ -7,6 +7,8 @@ on:
     types:
       - completed
 
+run-name: "Publish Dashboard run #${{ github.event.workflow_run.run_number }}"
+
 permissions: {}
 
 concurrency:
@@ -30,6 +32,7 @@ jobs:
       contents: write
       pull-requests: write
     env:
+      DASHBOARD_TIMEZONE: ${{ vars.DASHBOARD_TIMEZONE || 'America/Los_Angeles' }}
       GH_TOKEN: ${{ github.token }}
       REPOSITORY: ${{ github.repository }}
       RUN_ID: ${{ github.event.workflow_run.id }}
@@ -39,6 +42,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
+          set_outcome() {
+            echo "outcome=$1" >> "$GITHUB_OUTPUT"
+            echo "message=$2" >> "$GITHUB_OUTPUT"
+          }
+
+          set_outcome "validation-failed" "Dashboard candidate validation did not complete."
 
           artifact_dir="${RUNNER_TEMP}/dashboard-safe-output"
           # Resolve metadata only from the triggering run so another run's PR cannot be selected.
@@ -50,7 +60,9 @@ jobs:
 
           # Successful no-change runs legitimately produce no artifact and require no merge.
           if [[ -z "$artifact_ids" ]]; then
-            echo "No safe-output artifact was produced; there is nothing to publish."
+            message="No safe-output artifact was produced; there is nothing to publish."
+            echo "$message"
+            set_outcome "no-update" "$message"
             exit 0
           fi
 
@@ -68,7 +80,9 @@ jobs:
           items_file="$artifact_dir/safe-output-items.jsonl"
           # The artifact can exist without output items when the dashboard did not change.
           if [[ ! -s "$items_file" ]]; then
-            echo "The run produced no safe-output items; there is nothing to publish."
+            message="The run produced no safe-output items; there is nothing to publish."
+            echo "$message"
+            set_outcome "no-update" "$message"
             exit 0
           fi
 
@@ -85,7 +99,9 @@ jobs:
 
           # Other safe-output types may exist without a PR, which is a valid no-op for this publisher.
           if [[ -z "$item" ]]; then
-            echo "The run created no pull request; there is nothing to publish."
+            message="The run created no pull request; there is nothing to publish."
+            echo "$message"
+            set_outcome "no-update" "$message"
             exit 0
           fi
 
@@ -99,9 +115,24 @@ jobs:
           number="$(jq -er '.number | select(type == "number" and . > 0)' <<<"$item")"
           pull_request="$(gh api "/repos/${REPOSITORY}/pulls/${number}")"
 
+          if [[ "$(jq -r '.state' <<<"$pull_request")" != "open" ]]; then
+            echo "Dashboard PR #${number} is not open." >&2
+            exit 1
+          fi
+
           # A PR base can change after creation; never merge the dashboard anywhere except main.
           if [[ "$(jq -r '.base.ref' <<<"$pull_request")" != "main" ]]; then
             echo "Dashboard PR #${number} no longer targets main." >&2
+            exit 1
+          fi
+
+          if [[ "$(jq -r '.head.repo.full_name' <<<"$pull_request")" != "$REPOSITORY" ]]; then
+            echo "Dashboard PR #${number} comes from another repository." >&2
+            exit 1
+          fi
+
+          if [[ "$(jq -r '.head.ref' <<<"$pull_request")" != dashboard/* ]]; then
+            echo "Dashboard PR #${number} does not use a dashboard branch." >&2
             exit 1
           fi
 
@@ -126,10 +157,44 @@ jobs:
             exit 1
           fi
 
+          run_started_at="$(
+            gh api "/repos/${REPOSITORY}/actions/runs/${RUN_ID}" \
+              --jq '.run_started_at // empty'
+          )"
+          if [[ -z "$run_started_at" ]]; then
+            echo "Dashboard run ${RUN_ID} has no start time." >&2
+            exit 1
+          fi
+
+          expected_heading="$(
+            TZ="$DASHBOARD_TIMEZONE" date --date="$run_started_at" '+# %A, %d %b %Y'
+          )"
+          readme_file="${RUNNER_TEMP}/dashboard-readme.md"
+          gh api \
+            -H "Accept: application/vnd.github.raw+json" \
+            "/repos/${REPOSITORY}/contents/README.md?ref=${head_sha}" \
+            | sed 's/\r$//' > "$readme_file"
+
+          if [[ "$(head -n 1 "$readme_file")" != "$expected_heading" ]]; then
+            echo "Dashboard PR #${number} has the wrong date heading; expected '${expected_heading}'." >&2
+            exit 1
+          fi
+
+          for section in "## Weather" "## Seattle Mariners"; do
+            if ! grep -Fxq "$section" "$readme_file"; then
+              echo "Dashboard PR #${number} is missing required section '${section}'." >&2
+              exit 1
+            fi
+          done
+
+          dashboard_date="${expected_heading#\# }"
           echo "number=$number" >> "$GITHUB_OUTPUT"
           echo "head_sha=$head_sha" >> "$GITHUB_OUTPUT"
+          echo "dashboard_date=$dashboard_date" >> "$GITHUB_OUTPUT"
+          set_outcome "ready" "Dashboard PR #${number} passed deterministic validation."
 
       - name: Merge verified dashboard pull request
+        id: merge
         # No PR output means the resolver intentionally completed as a no-op.
         if: steps.candidate.outputs.number != ''
         env:
@@ -142,3 +207,79 @@ jobs:
           --squash
           --delete-branch
           --match-head-commit "$HEAD_SHA"
+
+      - name: Summarize publish outcome
+        if: always()
+        shell: bash
+        env:
+          CANDIDATE_MESSAGE: ${{ steps.candidate.outputs.message }}
+          CANDIDATE_OUTCOME: ${{ steps.candidate.outputs.outcome }}
+          CANDIDATE_STEP_OUTCOME: ${{ steps.candidate.outcome }}
+          DASHBOARD_DATE: ${{ steps.candidate.outputs.dashboard_date }}
+          MERGE_STEP_OUTCOME: ${{ steps.merge.outcome }}
+          PR_NUMBER: ${{ steps.candidate.outputs.number }}
+        run: |
+          set -euo pipefail
+
+          if [[ "$CANDIDATE_STEP_OUTCOME" != "success" ]]; then
+            business_outcome="Validation failed"
+          elif [[ "$CANDIDATE_OUTCOME" == "ready" && "$MERGE_STEP_OUTCOME" == "success" ]]; then
+            business_outcome="Updated and published"
+          elif [[ "$CANDIDATE_OUTCOME" == "ready" ]]; then
+            business_outcome="Merge failed"
+          else
+            business_outcome="No update to publish"
+          fi
+
+          {
+            echo "## Dashboard publish"
+            echo
+            echo "| Field | Result |"
+            echo "| --- | --- |"
+            echo "| Outcome | ${business_outcome} |"
+            if [[ -n "$DASHBOARD_DATE" ]]; then
+              echo "| Dashboard date | ${DASHBOARD_DATE} |"
+            fi
+            echo "| Triggering run | [#${RUN_ID}](${GITHUB_SERVER_URL}/${REPOSITORY}/actions/runs/${RUN_ID}) |"
+            if [[ -n "$PR_NUMBER" ]]; then
+              echo "| Pull request | [#${PR_NUMBER}](${GITHUB_SERVER_URL}/${REPOSITORY}/pull/${PR_NUMBER}) |"
+            fi
+            echo
+            echo "$CANDIDATE_MESSAGE"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  report-ineligible-run:
+    if: >-
+      ${{
+        github.event.workflow_run.conclusion != 'success' ||
+        github.event.workflow_run.head_branch != 'main' ||
+        github.event.workflow_run.head_repository.full_name != github.repository
+      }}
+    runs-on: ubuntu-latest
+    permissions: {}
+    env:
+      REPOSITORY: ${{ github.repository }}
+      RUN_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+      RUN_ID: ${{ github.event.workflow_run.id }}
+    steps:
+      - name: Summarize why the dashboard was not published
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ "$RUN_CONCLUSION" != "success" ]]; then
+            reason="The Dashboard run concluded '${RUN_CONCLUSION}'."
+          else
+            reason="The Dashboard run was not a trusted main-branch run."
+          fi
+
+          {
+            echo "## Dashboard publish"
+            echo
+            echo "| Field | Result |"
+            echo "| --- | --- |"
+            echo "| Outcome | Not published |"
+            echo "| Triggering run | [#${RUN_ID}](${GITHUB_SERVER_URL}/${REPOSITORY}/actions/runs/${RUN_ID}) |"
+            echo
+            echo "$reason"
+          } >> "$GITHUB_STEP_SUMMARY"
