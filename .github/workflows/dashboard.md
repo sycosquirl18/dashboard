@@ -2,9 +2,7 @@
 name: Dashboard
 on:
   schedule:
-    - cron: "17 4 * * *"
-      timezone: "America/Los_Angeles"
-    - cron: "17 6 * * *"
+    - cron: "17 1 * * *"
       timezone: "America/Los_Angeles"
   workflow_dispatch:
 permissions:
