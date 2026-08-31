@@ -1,24 +1,18 @@
-# Sunday, 30 Aug 2026
+# Monday, 31 Aug 2026
 
-Partly sunny in Bothell today — a nice late-summer day — and the Mariners are on the road wrapping up a tough series in Toronto.
+Mostly sunny and mild today, cooling into a clear evening — and the Mariners open a new series in Boston.
 
 ## Weather
 
-**Bothell, WA**
-
-- **Today:** Partly sunny, high near **70 °F** — mild with a light SW breeze (~3 mph), 7% chance of rain
-- **Tonight:** Partly cloudy, low around **53 °F** — clear enough for a light jacket
-- 👕 Light layers work well; no umbrella needed. A light jacket for the evening is smart.
+- **Today:** Mostly Sunny, high 73°F, wind NNW 3-7 mph, 2% chance of rain
+- **Tonight:** Partly Cloudy, low 54°F, wind NNE 0-5 mph, 3% chance of rain
+- **Apparel:** Light layers for the day, bring a jacket for the cool evening
 
 ## Seattle Mariners
 
-- **Game:** Seattle Mariners @ Toronto Blue Jays
-- **Venue:** Rogers Centre
-- **First pitch:** 10:37 AM PDT
-- **Status:** Pre-Game
-- **Series:** 3rd (and final) game of a 3-game series
-- **Probable pitchers:** Logan Gilbert (SEA) vs. Max Scherzer (TOR)
-
-**Series history:** This is the 3rd game vs. Toronto — Seattle is 0–2 so far; lost the first two (1–8 and 3–4).
-
-*Preceding series vs. Philadelphia Phillies:* Seattle won 2 of 3 (9–2 ✅, 4–1 ✅, 0–6 ❌).
+- Away vs Boston Red Sox at Fenway Park
+- 1st game of a 3-game series
+- First pitch: 3:45 PM PDT
+- Status: Scheduled
+- Probable pitchers: George Kirby (SEA) vs Payton Tolle (BOS)
+- Recent history: this is the first game of the series; Mariners were swept in the immediately preceding series (0-3 vs Toronto Blue Jays)
