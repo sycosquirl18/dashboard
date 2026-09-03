@@ -1,18 +1,18 @@
-# Wednesday, 02 Sep 2026
+# Thursday, 03 Sep 2026
 
-Rainy and mild today, and the Mariners look to take the series in Boston!
+Rain likely today with mild temps — Mariners open a 4-game set at home tonight.
 
 ## Weather
-
-- **Bothell, WA**
-- Daytime: Light Rain, high 69°F, 88% chance of precipitation, wind 6–10 mph S
-- Overnight: Light Rain Likely, low 53°F, 68% chance of precipitation, wind 5–9 mph SSE
-- Apparel: Bring a raincoat or umbrella
+- **Today:** High 67°F, Low 50°F (Bothell area)
+- **Daytime:** Light Rain Likely, 60% precip, wind S 3-7 mph
+- **Overnight:** Mostly Cloudy, low around 50°F, wind SE ~3 mph
+- **Apparel:** Bring a raincoat or umbrella
 
 ## Seattle Mariners
-
-- Mariners @ Red Sox, Fenway Park — Scheduled
-- First pitch: 1:10 PM PDT
-- 3rd game of a 3-game series
-- Probable pitchers: Bryce Miller (SEA) vs. Patrick Sandoval (BOS)
-- Series so far: 1-1; lost the first and won the second
+- Seattle Mariners (home) vs Athletics (away)
+- Venue: T-Mobile Park
+- Status: Scheduled
+- First pitch: 6:40 PM PDT
+- 1st game of a 4-game series
+- Probable pitchers: Kade Anderson (SEA) vs Jack Perkins (OAK)
+- Recent history: first game of this series; Mariners won their previous series against the Boston Red Sox 2-1
