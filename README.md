@@ -1,18 +1,17 @@
-# Thursday, 03 Sep 2026
+# Friday, 04 Sep 2026
 
-Rain likely today with mild temps — Mariners open a 4-game set at home tonight.
+Pleasant and mild today, with the Mariners looking to bounce back tonight.
 
 ## Weather
-- **Today:** High 67°F, Low 50°F (Bothell area)
-- **Daytime:** Light Rain Likely, 60% precip, wind S 3-7 mph
-- **Overnight:** Mostly Cloudy, low around 50°F, wind SE ~3 mph
-- **Apparel:** Bring a raincoat or umbrella
+
+- **Today:** Partly sunny, high near 70°F, 8% chance of rain, light wind (0-5 mph NNW)
+- **Tonight:** Mostly cloudy, low around 52°F, 7% chance of rain, light wind (3 mph NNE)
+- **What to wear:** Light layers for the day, a jacket once the sun goes down
 
 ## Seattle Mariners
-- Seattle Mariners (home) vs Athletics (away)
-- Venue: T-Mobile Park
-- Status: Scheduled
-- First pitch: 6:40 PM PDT
-- 1st game of a 4-game series
-- Probable pitchers: Kade Anderson (SEA) vs Jack Perkins (OAK)
-- Recent history: first game of this series; Mariners won their previous series against the Boston Red Sox 2-1
+
+- Seattle Mariners (home) vs. Athletics at T-Mobile Park
+- Status: Scheduled, first pitch 7:10 PM PDT
+- 2nd game of a 4-game series
+- Probable pitchers: Logan Gilbert (SEA) vs. Kade Morris (ATH)
+- Seattle lost game 1 of this series, 4-7
