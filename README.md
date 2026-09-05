@@ -1,17 +1,18 @@
-# Friday, 04 Sep 2026
+# Saturday, 05 Sep 2026
 
-Pleasant and mild today, with the Mariners looking to bounce back tonight.
+Mild and mostly cloudy with a slight chance of evening rain — Mariners look to avoid a series sweep at home.
 
 ## Weather
 
-- **Today:** Partly sunny, high near 70°F, 8% chance of rain, light wind (0-5 mph NNW)
-- **Tonight:** Mostly cloudy, low around 52°F, 7% chance of rain, light wind (3 mph NNE)
-- **What to wear:** Light layers for the day, a jacket once the sun goes down
+- **Bothell, WA** — Saturday: High 71°F, mostly cloudy, slight chance of light rain after 5pm (20% chance). Wind NW 1-5 mph.
+- Saturday Night: Low 52°F, slight chance of rain before 8pm (20% chance), then partly cloudy. Wind N around 3 mph.
+- 👕 Light layers during the day; bring a light jacket for evening. Umbrella optional, not essential.
 
 ## Seattle Mariners
 
-- Seattle Mariners (home) vs. Athletics at T-Mobile Park
-- Status: Scheduled, first pitch 7:10 PM PDT
-- 2nd game of a 4-game series
-- Probable pitchers: Logan Gilbert (SEA) vs. Kade Morris (ATH)
-- Seattle lost game 1 of this series, 4-7
+- Athletics @ Mariners (home) — T-Mobile Park
+- Status: Scheduled, first pitch 6:40 PM PDT
+- 3rd game of a 4-game series
+- Record so far: 0-2; lost the first two
+- Previous series: won 2-1 vs Boston Red Sox
+- Probable pitchers: George Kirby (SEA) vs Jeffrey Springs (ATH)
