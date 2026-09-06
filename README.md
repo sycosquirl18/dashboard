@@ -1,18 +1,18 @@
-# Saturday, 05 Sep 2026
+# Sunday, 06 Sep 2026
 
-Mild and mostly cloudy with a slight chance of evening rain — Mariners look to avoid a series sweep at home.
+Sunny and warm today, and the Mariners look to avoid a sweep against Oakland!
 
 ## Weather
 
-- **Bothell, WA** — Saturday: High 71°F, mostly cloudy, slight chance of light rain after 5pm (20% chance). Wind NW 1-5 mph.
-- Saturday Night: Low 52°F, slight chance of rain before 8pm (20% chance), then partly cloudy. Wind N around 3 mph.
-- 👕 Light layers during the day; bring a light jacket for evening. Umbrella optional, not essential.
+- **Today:** Mostly sunny, high 72°F, low wind (N 1-5 mph), 1% chance of rain
+- **Tonight:** Mostly clear, low 54°F, light wind (E 3 mph), 2% chance of rain
+- **Apparel:** Light layers for the day, a light jacket for the cool evening — no rain gear needed
 
 ## Seattle Mariners
 
-- Athletics @ Mariners (home) — T-Mobile Park
-- Status: Scheduled, first pitch 6:40 PM PDT
-- 3rd game of a 4-game series
-- Record so far: 0-2; lost the first two
-- Previous series: won 2-1 vs Boston Red Sox
-- Probable pitchers: George Kirby (SEA) vs Jeffrey Springs (ATH)
+- **Athletics @ Mariners** — Home game at T-Mobile Park
+- **First pitch:** 1:10 PM PDT
+- **Status:** Scheduled
+- **Series:** 4th game of a 4-game series
+- **Probable pitchers:** Bryan Woo (SEA) vs. Gage Jump (ATH)
+- **Recent series history:** 0-3 so far this series; lost the first three
