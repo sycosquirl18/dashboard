@@ -1,14 +1,19 @@
-# Monday, 07 Sep 2026
+# Tuesday, 08 Sep 2026
 
-Mild and mostly dry today, with a small rain chance this afternoon — no Mariners game.
+Sunny and mild today, and the Mariners open a new home series tonight!
 
 ## Weather
 
-- **Bothell, WA**
-- Today: 68°F, chance light rain (33%), wind SSW 1–5 mph
-- Tonight: 52°F, partly cloudy, wind NNE ~1 mph, precip 3%
-- 👉 Bring a light jacket and maybe a small umbrella just in case
+- **Today (Bothell, WA):** Areas of fog then sunny, high 73°F / low 53°F overnight
+- **Precipitation:** 0% chance
+- **Wind:** Light, 1-5 mph from the N
+- **Apparel:** Light jacket for the morning fog, short sleeves once it clears up
 
 ## Seattle Mariners
 
-- No Mariners game today.
+- **Tonight:** Mariners (home) vs. Texas Rangers
+- **Venue:** T-Mobile Park
+- **First pitch:** 6:40 PM PDT
+- **Status:** Scheduled
+- **Series:** 1st game of a 3-game series
+- **Recent history:** First game of the series; Mariners lost the previous series against the Athletics, 1-3
