@@ -1,19 +1,20 @@
-# Tuesday, 08 Sep 2026
+# Wednesday, 09 Sep 2026
 
-Sunny and mild today, and the Mariners open a new home series tonight!
+Warm and sunny today, and the Mariners look for a series-tying win!
 
 ## Weather
 
-- **Today (Bothell, WA):** Areas of fog then sunny, high 73°F / low 53°F overnight
-- **Precipitation:** 0% chance
-- **Wind:** Light, 1-5 mph from the N
-- **Apparel:** Light jacket for the morning fog, short sleeves once it clears up
+- **Today (Bothell, WA):** Mostly sunny, high 76°F / low 56°F overnight
+- **Precipitation:** 4% chance
+- **Wind:** Light, 3 mph from the N
+- **Apparel:** Shorts today for sure
 
 ## Seattle Mariners
 
-- **Tonight:** Mariners (home) vs. Texas Rangers
+- **Today:** Mariners (home) vs. Texas Rangers
 - **Venue:** T-Mobile Park
-- **First pitch:** 6:40 PM PDT
+- **First pitch:** 1:10 PM PDT
 - **Status:** Scheduled
-- **Series:** 1st game of a 3-game series
-- **Recent history:** First game of the series; Mariners lost the previous series against the Athletics, 1-3
+- **Probable pitchers:** Kade Anderson (SEA) vs. Cody Bradford (TEX)
+- **Series:** 2nd game of a 3-game series
+- **Recent history:** 2nd game of the series; Mariners lost the first game 5-10
