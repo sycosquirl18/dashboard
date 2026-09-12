@@ -1,19 +1,18 @@
-# Friday, 11 Sep 2026
+# Saturday, 12 Sep 2026
 
-Mild and mostly cloudy today — Mariners open a new series away in Oakland!
+Mild and showery today, and the Mariners look to bounce back on the road.
 
 ## Weather
-- **Bothell, WA** — Mostly Cloudy
-- High 69°F (day), Low 54°F (night)
-- Precipitation chance: 3% day / 10% night
-- Wind: 1–5 mph S (day), 2 mph NNW (night)
-- 👕 Light layers are fine — no rain gear needed today.
+
+- **Today:** 70°F, mostly cloudy then a chance of light rain (33% precip), light NNW wind 1-5 mph
+- **Tonight:** Low 54°F, rain likely (86% precip), light SSW wind 1-6 mph
+- **Apparel:** Bring a light jacket, and pack an umbrella for tonight — rain moves in later.
 
 ## Seattle Mariners
-- Seattle Mariners @ Athletics (away)
-- Venue: Sutter Health Park
-- Status: Scheduled
+
+- **Away** vs Athletics at Sutter Health Park
 - First pitch: 6:40 PM PDT
-- 1st game of a 3-game series
-- Probable pitchers: George Kirby (SEA) vs. Jeffrey Springs (OAK)
-- Recent series: Mariners won their last series 2-1 against the Texas Rangers.
+- Status: Scheduled
+- 2nd game of a 3-game series
+- Probable pitchers: Bryan Woo (SEA) vs. Gage Jump (ATH)
+- Mariners lost the series opener 5-6
