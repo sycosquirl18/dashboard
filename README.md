@@ -1,14 +1,17 @@
-# Sunday, 13 Sep 2026
+# Monday, 14 Sep 2026
 
-Rainy day in Bothell, and the Mariners close out their series with the Athletics!
+Mild and mostly sunny today, with the Mariners opening a series in Anaheim tonight.
 
 ## Weather
-- **Today:** Rain, high 65°F, 93% chance of precipitation, wind S 7 mph
-- **Tonight:** Mostly cloudy, low 54°F, 10% chance of precipitation, wind S 5-10 mph
-- 🌧️ Bring a raincoat or umbrella
+
+- **Today:** Partly Sunny, high 68°F, winds SSW 2-6 mph, 4% chance of rain
+- **Tonight:** Mostly Cloudy, then slight chance of light rain, low 53°F, winds N 1-5 mph, 15% chance of rain
+- 🧥 Light jacket for the evening — small chance of rain overnight
 
 ## Seattle Mariners
-- Mariners @ Athletics — Sutter Health Park
-- First pitch: 1:05 PM PDT (Scheduled)
-- 3rd game of a 3-game series — record so far: 1-1; lost the first and won the second
-- Probable pitchers: Bryce Miller (SEA) vs. Jacob Lopez (OAK)
+
+- Seattle @ Los Angeles Angels — Angel Stadium
+- Status: Scheduled, first pitch 6:38 PM PDT
+- 1st game of a 3-game series
+- Probable pitchers: Kade Anderson (SEA) vs. Reid Detmers (LAA)
+- Recent history: This is the first game of the series; Seattle lost the previous series 1-2 against the Athletics
