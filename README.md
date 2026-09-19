@@ -1,18 +1,18 @@
-# Friday, 18 Sep 2026
+# Saturday, 19 Sep 2026
 
-Sunny and comfortable today, then off to Denver for the Mariners.
+Sunny and mild today, and the Mariners look to build on last night's win in Denver.
 
 ## Weather
 
-- **Today (Bothell, WA):** Sunny, high 73°F; overnight low 53°F (Friday Night low 52°F)
+- **Today (Bothell, WA):** Partly sunny, high 73°F; overnight low 51°F (tonight's low 52°F)
 - Precipitation: 0% chance
-- Wind: 5 mph S/SSW, calming to 3 mph SE overnight
-- 👕 Shorts and a t-shirt during the day; bring a light layer for the cool evening
+- Wind: light, 2 mph WNW during the day, shifting to 2 mph N overnight
+- 👕 Shorts today for sure — light and dry all day
 
 ## Seattle Mariners
 
-- Mariners (71-82) @ Rockies (56-97) — 1st game of a 3-game series
+- Mariners (72-82) @ Rockies (56-98) — 2nd game of a 3-game series
 - Venue: Coors Field
 - First pitch: 5:10 PM PDT (Scheduled)
-- Probable pitcher: Bryan Woo (SEA); Rockies TBD
-- Recent series history: Seattle lost the previous series vs. Los Angeles Angels (1-2)
+- Probable pitchers: Bryce Miller (SEA) vs. Jose Quintana (COL)
+- Recent series history: This is the second game; Seattle won the first game 5-4
