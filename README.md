@@ -1,18 +1,17 @@
-# Saturday, 19 Sep 2026
+# Sunday, 20 Sep 2026
 
-Sunny and mild today, and the Mariners look to build on last night's win in Denver.
+Mild and sunny today — Mariners look to salvage the series finale in Colorado.
 
 ## Weather
 
-- **Today (Bothell, WA):** Partly sunny, high 73°F; overnight low 51°F (tonight's low 52°F)
-- Precipitation: 0% chance
-- Wind: light, 2 mph WNW during the day, shifting to 2 mph N overnight
-- 👕 Shorts today for sure — light and dry all day
+- **Today:** 70°F, Patchy Fog then Mostly Sunny, 0% chance of precip, wind 3 mph NNE
+- **Tonight:** 50°F, Partly Cloudy then Patchy Fog, 0% chance of precip, wind 0-3 mph NNE
+- **Apparel:** Comfortable day, no rain gear needed — bring a light jacket for the cooler evening.
 
 ## Seattle Mariners
 
-- Mariners (72-82) @ Rockies (56-98) — 2nd game of a 3-game series
-- Venue: Coors Field
-- First pitch: 5:10 PM PDT (Scheduled)
-- Probable pitchers: Bryce Miller (SEA) vs. Jose Quintana (COL)
-- Recent series history: This is the second game; Seattle won the first game 5-4
+- **Opponent:** Colorado Rockies (away) at Coors Field
+- **Status:** Scheduled — first pitch 12:10 PM PDT
+- **Series:** 3rd game of a 3-game series
+- **Series so far:** 1-1; won the first and lost the second
+- **Probable pitchers:** Kade Anderson (SEA) vs. Tomoyuki Sugano (COL)
