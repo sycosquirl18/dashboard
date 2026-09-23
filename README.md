@@ -1,18 +1,17 @@
-# Tuesday, 22 Sep 2026
+# Wednesday, 23 Sep 2026
 
-Mild and dry-ish today with the Mariners kicking off a new series at home!
+Mild and mostly cloudy today, with the Mariners looking to even up their series against Houston tonight.
 
 ## Weather
 
-- **Today:** Chance light rain then partly sunny, high 67°F, 26% chance of precipitation, wind 1 mph N
-- **Tonight:** Mostly cloudy, low 51°F, 8% chance of precipitation, wind 3 mph E
-- **Apparel:** Bring a light layer for the morning chance of rain, then a light jacket for the cool evening
+- **Today:** Slight chance of light rain early, then mostly cloudy. High 65°F, 16% precipitation chance, wind 3 mph ESE.
+- **Tonight:** Mostly cloudy, low 49°F, 2% precipitation chance, wind 3 mph N.
+- **Apparel:** Light jacket in case of stray showers this morning; otherwise a mild, comfortable day.
 
 ## Seattle Mariners
 
-- Seattle Mariners (home) vs Houston Astros
-- Venue: T-Mobile Park
-- Status: Scheduled, first pitch 6:40 PM PDT
-- 1st game of a 2-game series
-- Probable pitchers: Logan Gilbert (SEA) vs Cristian Javier (HOU)
-- This is the first game of the series; Seattle won the previous series against the Colorado Rockies, 2-1
+- **Houston Astros** at **T-Mobile Park** (home) — 2nd game of a 2-game series
+- First pitch: 7:10 PM PDT
+- Status: Scheduled
+- Probable pitchers: George Kirby (SEA) vs. Ethan Pecko (HOU)
+- Series so far: 0-1; lost the first game 0-7
