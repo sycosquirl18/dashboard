@@ -1,17 +1,17 @@
-# Thursday, 24 Sep 2026
+# Friday, 25 Sep 2026
 
-Mild and drizzly today, but the Mariners kick off a big series at home!
+Rainy and stormy today, but the Mariners are back at home against the Angels!
 
 ## Weather
-
-- **Bothell, WA** — Cloudy, slight chance of light rain, high 62°F (20% precip), wind N 3 mph
-- **Tonight:** Light rain likely, low 51°F (97% precip), wind NE 1–5 mph
-- 🧥 Bring a light rain jacket or umbrella just in case
+- **Bothell, WA**
+- Today: Showers and thunderstorms, high near 61°F, 100% chance of precipitation, SSW wind 2-10 mph
+- Tonight: Chance of light rain then partly cloudy, low around 46°F, 26% chance of precipitation, SSE wind 2-6 mph
+- Apparel: Bring a raincoat or umbrella
 
 ## Seattle Mariners
-
-- vs Los Angeles Angels (Home) at T-Mobile Park
-- Status: Scheduled — first pitch 6:40 PM PDT
-- 1st game of a 4-game series
-- Probable pitchers: Bryan Woo (SEA) vs Grayson Rodriguez (LAA)
-- Previous series vs Houston Astros: tied 1-1
+- Seattle Mariners (home) vs. Los Angeles Angels
+- Venue: T-Mobile Park
+- Status: Scheduled, first pitch at 7:10 PM PDT
+- 2nd game of a 4-game series
+- Second game of the series; Seattle lost the opener 4-6 to the Angels
+- Probable pitchers: Bryce Miller (SEA) vs. Reid Detmers (LAA)
