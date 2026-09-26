@@ -1,17 +1,19 @@
-# Friday, 25 Sep 2026
+# Saturday, 26 Sep 2026
 
-Rainy and stormy today, but the Mariners are back at home against the Angels!
+Cool and sunny today with an Angels rematch under the lights at T-Mobile Park!
 
 ## Weather
-- **Bothell, WA**
-- Today: Showers and thunderstorms, high near 61°F, 100% chance of precipitation, SSW wind 2-10 mph
-- Tonight: Chance of light rain then partly cloudy, low around 46°F, 26% chance of precipitation, SSE wind 2-6 mph
-- Apparel: Bring a raincoat or umbrella
+
+- **Today:** Mostly sunny, high 63°F, wind E 0-7 mph, ~1% chance of rain
+- **Tonight:** Mostly cloudy, low 46°F, wind N 6 mph, 0% chance of rain
+- **Apparel:** Light jacket for the day, warmer layer for tonight — no rain gear needed
 
 ## Seattle Mariners
+
 - Seattle Mariners (home) vs. Los Angeles Angels
-- Venue: T-Mobile Park
-- Status: Scheduled, first pitch at 7:10 PM PDT
-- 2nd game of a 4-game series
-- Second game of the series; Seattle lost the opener 4-6 to the Angels
-- Probable pitchers: Bryce Miller (SEA) vs. Reid Detmers (LAA)
+- **Venue:** T-Mobile Park
+- **First pitch:** 6:40 PM PDT
+- **Status:** Scheduled
+- 3rd game of a 4-game series
+- Mariners are 0-2 in this series; lost the first two
+- **Probable pitchers:** Kade Anderson (SEA) vs. Ryan Johnson (LAA)
