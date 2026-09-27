@@ -1,19 +1,19 @@
-# Saturday, 26 Sep 2026
+# Sunday, 27 Sep 2026
 
-Cool and sunny today with an Angels rematch under the lights at T-Mobile Park!
+Mild and sunny today, with the Mariners closing out their series against the Angels.
 
 ## Weather
 
-- **Today:** Mostly sunny, high 63°F, wind E 0-7 mph, ~1% chance of rain
-- **Tonight:** Mostly cloudy, low 46°F, wind N 6 mph, 0% chance of rain
-- **Apparel:** Light jacket for the day, warmer layer for tonight — no rain gear needed
+- **Today:** Mostly sunny, high 63°F, wind N ~7 mph, 0% chance of rain
+- **Tonight:** Mostly clear, low 43°F, wind NE 1-5 mph, 0% chance of rain
+- **Apparel:** Light layers are fine — no rain gear needed, bring a jacket for the cool evening
 
 ## Seattle Mariners
 
 - Seattle Mariners (home) vs. Los Angeles Angels
 - **Venue:** T-Mobile Park
-- **First pitch:** 6:40 PM PDT
+- **First pitch:** 12:10 PM PDT
 - **Status:** Scheduled
-- 3rd game of a 4-game series
-- Mariners are 0-2 in this series; lost the first two
-- **Probable pitchers:** Kade Anderson (SEA) vs. Ryan Johnson (LAA)
+- 4th game of a 4-game series
+- Mariners are 1-2 in this series; lost the first two and won the third
+- **Probable pitchers:** Logan Gilbert (SEA) vs. Yusei Kikuchi (LAA)
