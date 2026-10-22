@@ -1,15 +1,16 @@
-# Wednesday, 21 Oct 2026
+# Thursday, 22 Oct 2026
 
-Sunny and mild in Bothell, with a chilly night. No Mariners game today.
+Cool, dry and partly sunny today. No Mariners game.
 
 ## Weather
 
-- **Bothell**
-- Day: Patchy fog, then sunny; high 66°F
-- Night: Partly cloudy; low 42°F
-- Precipitation: 1%
-- Wind: 0–3 mph SW by day; 5 mph NNE tonight
-- Wear: Light jacket or layers for the morning; pants and a sweater tonight. No rain gear needed.
+Bothell, WA
+
+- **Day:** Partly sunny, high 58°F
+- **Night:** Partly cloudy, low 42°F
+- **Precipitation:** 4% day, 3% night
+- **Wind:** N 1 to 6 mph by day; NNE 0 to 3 mph at night
+- **Wear:** A light jacket or sweater for the day, and a warmer layer tonight. No rain gear needed.
 
 ## Seattle Mariners
 
