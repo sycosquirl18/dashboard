@@ -1,16 +1,13 @@
-# Saturday, 31 Oct 2026
+# Sunday, 01 Nov 2026
 
-Chilly, sunny Halloween in Bothell with no Mariners game.
+Foggy, chilly start with a sunny afternoon, and no Mariners game today.
 
 ## Weather
 
-**Bothell, WA**
-
-- ☀️ Day: Patchy frost then mostly sunny, high 53°F
-- 🌙 Night: Patchy fog, low 38°F
-- 💧 Precipitation: 1% day, 3% night
-- 💨 Wind: N 3 mph day, N 0–3 mph night
-- 🧥 Wear a jacket and layers; add a warm hat and gloves for the evening trick-or-treating chill.
+- **Location:** Bothell
+- **Day:** 53°F, fog then mostly sunny, 0% precipitation, wind 1 mph NNW
+- **Night:** 35°F, areas of fog, 0% precipitation, wind 1 mph ESE
+- **Wear:** Layers and a warm jacket in the morning and evening; no rain gear needed. Use headlights in the fog.
 
 ## Seattle Mariners
 
