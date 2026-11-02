@@ -1,14 +1,14 @@
-# Sunday, 01 Nov 2026
+# Monday, 02 Nov 2026
 
-Foggy, chilly start with a sunny afternoon, and no Mariners game today.
+Cool, cloudy and dry in Bothell, and no Mariners game today.
 
 ## Weather
 
 - **Location:** Bothell
-- **Day:** 53°F, fog then mostly sunny, 0% precipitation, wind 1 mph NNW
-- **Night:** 35°F, areas of fog, 0% precipitation, wind 1 mph ESE
-- **Wear:** Layers and a warm jacket in the morning and evening; no rain gear needed. Use headlights in the fog.
+- **Day:** Mostly cloudy, high 54°F, 1% chance of precipitation, wind 0 mph
+- **Night:** Cloudy, low 44°F, 13% chance of precipitation, wind 1 mph NE
+- **Wear:** A jacket or sweater and long pants; no umbrella needed.
 
 ## Seattle Mariners
 
-No Mariners game today.
+- No Mariners game today.
