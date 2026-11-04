@@ -1,16 +1,13 @@
-# Tuesday, 03 Nov 2026
+# Wednesday, 04 Nov 2026
 
-Cool, mostly dry day with a foggy night, and no Mariners game.
+Rain moves in tonight, and the Mariners are off.
 
 ## Weather
 
-Bothell, WA
-
-- **Day:** Partly sunny, high 56°F
-- **Night:** Patchy fog, low 38°F
-- **Precipitation:** 8% day, 5% night
-- **Wind:** N 2 mph day, E 1 mph night
-- **Wear:** A jacket or sweater and long pants; no rain gear needed. Warm layer for tonight.
+- **Location:** Bothell, WA
+- **Day:** 58°F, mostly cloudy then chance of light rain (36% precip), wind SSE 2 to 6 mph
+- **Night:** 48°F, light rain (84% precip), wind S 7 to 10 mph
+- **Wear:** Jacket and a raincoat or umbrella, especially for the evening.
 
 ## Seattle Mariners
 
