@@ -1,14 +1,14 @@
-# Saturday, 14 Nov 2026
+# Sunday, 15 Nov 2026
 
-Cool and rainy in Bothell, and no Mariners game today.
+Rainy and cool in Bothell today, and no Mariners game.
 
 ## Weather
 
-- **Location:** Bothell, WA
-- **Day:** Chance of light rain, high 56°F, 36% precipitation, wind SSE 6 mph
-- **Night:** Light rain, low 49°F, 95% precipitation, wind SE 6 to 12 mph
+- **Bothell**
+- **Day:** Light rain, high 54°F, 86% chance of precipitation, SSE wind 5 to 9 mph
+- **Night:** Chance of light rain, low 42°F, 41% chance of precipitation, SSE wind 5 mph
 - **Wear:** Bring a raincoat or umbrella and a warm layer.
 
 ## Seattle Mariners
 
-No Mariners game today.
+- No Mariners game today.
